@@ -1,0 +1,50 @@
+/* screens */
+@media screen and (max-width: 768px) {
+  .sm-w-25 {
+    width: 25%;
+  }
+  .sm-w-33 {
+    width: 33.333%;
+  }
+  .sm-w-50 {
+    width: 50%;
+  }
+  .sm-w-100 {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .md-w-25 {
+    width: 25%;
+  }
+  .md-w-33 {
+    width: 33.333%;
+  }
+  .md-w-50 {
+    width: 50%;
+  }
+  .md-w-100 {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lg-w-25 {
+    width: 25%;
+  }
+  .lg-w-33 {
+    width: 33.333%;
+  }
+  .lg-w-50 {
+    width: 50%;
+  }
+  .lg-w-100 {
+    width: 100%;
+  }
+}
+/* screens */
+/* containers */
+.container {
+  padding: 5% 5%;
+  width: 100%;
+}
+/* containers */
